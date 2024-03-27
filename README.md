@@ -4,7 +4,7 @@ Una API construida con Node.js y MongoDB, encapsulada en Docker Compose para fac
 
 ## Iniciar aplicacion
 
--   Clonar repositorio `git clone https://github.com/msosa98/tp-docker`
+-   Clonar repositorio `git clone https://github.com/msosa98/tp-docker.git`
 -   Iniciar el docker compose `docker compose up`
 
 ## Endpoints
